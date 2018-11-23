@@ -6,6 +6,8 @@ This is a user guide on how to work with ANSYS Fluent installed on Sharif HPC.
 
 If you know how to work with Git, feel free to modify this guide.
 
-# Author:
+# Author
 
 Pooria Soltani, M.Sc. graduate, Sharif University of Technology
+
+LinkedIn: [pmsoltani](https://www.linkedin.com/in/pmsoltani/)
